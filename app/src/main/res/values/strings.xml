@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ortografia_Gramatica</string>
+    <string name="send_button">Enviar</string>
+    <string name="paragraph_hint">Ingrese un parrafo</string>
+    <string name="show_paragraph">El resulto del parrafo es: </string>
+    <string name="total_words">Total de palabras:\t </string>
+</resources>
